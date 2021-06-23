@@ -1,0 +1,14 @@
+.root {
+  flex-grow: flex;
+}
+
+.paper {
+  height: 140px;
+  width: 100px;
+}
+.gridBackgroundColor {
+  background-color: rgb(241, 234, 234);
+}
+.control {
+  padding: 2px;
+}
